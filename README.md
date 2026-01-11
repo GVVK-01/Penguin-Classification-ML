@@ -70,4 +70,10 @@ The following classification models were trained:
 
 ---
 
+## Tech Stack
+-pandas
+-numpy
+-matplotlib
+-seaborn
+-scikit-learn
 
